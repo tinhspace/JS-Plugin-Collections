@@ -154,6 +154,12 @@ A Simple jQuery Plugin for Animating Scroll.
 
 https://github.com/ramswaroop/animatescroll.js
 
+===
+
+### Video.js
+Open source HTML5 & Flash video player.
+
+https://github.com/videojs/video.js
 
 
 
