@@ -170,10 +170,10 @@ https://github.com/julianshapiro/velocity
 
 ===
 
-### Velocity
-Accelerated JavaScript animation.
+### Typist
+Elegant automated typing, for your text rotation needs.
 
-https://github.com/julianshapiro/velocity
+https://github.com/positionly/Typist
 
 
 
