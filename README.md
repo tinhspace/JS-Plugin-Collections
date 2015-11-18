@@ -73,9 +73,86 @@ https://github.com/maroslaw/rainyday.js
 ===
 
 ### Isotope
-An exquisite jQuery plugin for magical layouts. Enables filtering, sorting, and dynamic layouts..
+An exquisite jQuery plugin for magical layouts. Enables filtering, sorting, and dynamic layouts.
 
-https://github.com/aresta/isotope
+https://github.com/metafizzy/isotope
+
+===
+
+### Owl Carousel
+Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
+
+https://github.com/OwlFonk/OwlCarousel
+
+===
+
+### Reveal.js
+A framework for easily creating beautiful presentations using HTML.
+
+https://github.com/hakimel/reveal.js
+
+===
+
+### The Sticky Pagination Fixer
+Does your site have a sticky header? You should use this script to fix keyboard-based pagination events.
+
+https://github.com/murtaugh/sticky-pagination-fixer
+
+===
+
+### BookBlock
+A jQuery plugin that will create a booklet-like component that let's you navigate through its items by flipping the pages.
+
+https://github.com/codrops/BookBlock
+
+===
+
+### Photoset Grid
+A simple jQuery plugin to arrange images into a flexible grid, based on Tumblr's photoset feature.
+
+https://github.com/stylehatch/photoset-grid/
+
+===
+
+### Sidr
+Sidr is a jQuery plugin for creating side menus and the easiest way for doing your menu responsive.
+
+https://github.com/artberri/sidr
+
+===
+
+### NProgress
+Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium.
+
+https://github.com/rstacruz/nprogress
+
+===
+
+### jQuery Knob
+Nice, downward compatible, touchable, jQuery dial.
+
+https://github.com/aterrien/jQuery-Knob
+
+===
+
+### Chart.js
+Simple HTML5 Charts using the canvas element.
+
+https://github.com/nnnick/Chart.js
+
+===
+
+### Pick A Date
+The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
+
+https://github.com/amsul/pickadate.js
+
+===
+
+### Animate Scroll
+A Simple jQuery Plugin for Animating Scroll.
+
+https://github.com/ramswaroop/animatescroll.js
 
 
 
