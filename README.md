@@ -23,6 +23,18 @@ https://github.com/WickyNilliams/headroom.js
 
 ===
 
+### jQuery Adaptive Backgrounds
+A jQuery plugin for extracting the dominant color from images and applying the color to their parent.
+
+https://github.com/briangonzalez/jquery.adaptive-backgrounds.js
+
+===
+
+### fullPage
+Create full screen pages fast and simple.
+
+https://github.com/alvarotrigo/fullPage.js
+
 
 
 
