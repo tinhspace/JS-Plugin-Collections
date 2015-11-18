@@ -161,6 +161,20 @@ Open source HTML5 & Flash video player.
 
 https://github.com/videojs/video.js
 
+===
+
+### Velocity
+Accelerated JavaScript animation.
+
+https://github.com/julianshapiro/velocity
+
+===
+
+### Velocity
+Accelerated JavaScript animation.
+
+https://github.com/julianshapiro/velocity
+
 
 
 
