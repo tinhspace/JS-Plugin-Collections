@@ -175,6 +175,13 @@ Elegant automated typing, for your text rotation needs.
 
 https://github.com/positionly/Typist
 
+===
+
+### Noty
+Noty is a jQuery notification plugin that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
+
+https://github.com/needim/noty
+
 
 
 
